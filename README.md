@@ -1,3 +1,5 @@
+## This repository is a fork of the original GumTree tool. Following, you can find the README of the original repository.
+
 # GumTree ![Build Status](https://travis-ci.org/GumTreeDiff/gumtree.svg?branch=master) [![Coverage Status](https://coveralls.io/repos/GumTreeDiff/gumtree/badge.svg?branch=master)](https://coveralls.io/r/GumTreeDiff/gumtree?branch=master)
 
 GumTree is a complete framework to deal with source code as trees and compute differences between them. It includes possibilities such as:
